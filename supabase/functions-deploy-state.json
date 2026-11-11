@@ -1,0 +1,13 @@
+{
+  "projectId": "72843677",
+  "functions": {
+    "generate-word-image": {
+      "hasChanged": false,
+      "hash": "7562943acf9b0a86ae1da2a8abc49cf75e3d018d066bd350ee8f7e4441de0cb4"
+    },
+    "image-search": {
+      "hasChanged": false,
+      "hash": "6e184147ebc282229be762c8edecfa6a2036f5de60f61adf69654d1813b23238"
+    }
+  }
+}
